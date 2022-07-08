@@ -4,7 +4,7 @@
 
 
   
-<img align="center" src="Music-player.png">
+<img align="center" src="music-player.png">
 
 
 ---
